@@ -4,7 +4,7 @@ This PMOD is designed for implementing USB host mode directly in an FPGA. It con
 
 ![USB Host Dual Socket PMOD](https://github.com/machdyne/usb_host_dual_socket_pmod/blob/a3df26ef930d754a8af453d40718b0e3445503fa/usb_host_dual_socket_pmod.jpg)
 
-This repo contains schematics and pinouts.
+This repo contains PCB layouts, schematics and pinouts.
 
 Find more information on the [product page](https://machdyne.com/product/usb-host-dual-socket-pmod/).
 
